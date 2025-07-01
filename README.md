@@ -1,3 +1,3 @@
-**Introduction:** Second-year master's student in Subatomic Physics and Cosmology at the University Grenoble Alpes (France), currently working with the IceCube group at the University of Münster (Germany)  
+**Introduction:** PhD student with the IceCube group at the Université Libre de Bruxelles, working on fractionally charged particles and dark matter search  
 **Pronouns:** They/them  
-**Emails:** louise.lallement@etu.univ-grenoble-alpes.fr or louise.lallement-arnaud@uni-muenster.de
+**Email:** louise.lallement-arnaud@icecube.wisc.edu
